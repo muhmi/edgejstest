@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "edge": "^0.9.3"
+    "edge": "^0.9.3",
+    "ws": "^0.6.3"
   }
 }
